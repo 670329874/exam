@@ -1,4 +1,4 @@
 package com.kgc.servlet;
 
-public class A {
+public class B {
 }
